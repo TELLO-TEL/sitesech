@@ -1,0 +1,20 @@
+ db.categories.insert(
+     [
+     {title: "Arts" , created_at: new Date()},
+      {title: "Business" , created_at: new Date()}, 
+      {title: "Classifieds" , created_at: new Date()},
+       {title: "Education" , created_at: new Date()}, 
+      {title: "Entertainment" , created_at: new Date()}, 
+      {title: "Food" , created_at: new Date()}, 
+      {title: "Health" , created_at: new Date()}, 
+      {title: "music" , created_at: new Date()},
+       {title: "news" , created_at: new Date()}, 
+       {title: "people" , created_at: new Date()}, 
+       {title: "science" , created_at: new Date()},
+      {title: "shopping" , created_at: new Date()},
+       {title: "Sports" , created_at: new Date()},
+        {title: "TEchnology" , created_at: new Date()}, 
+        {title: "Travel" , created_at: new Date()}
+
+ ]
+ )
